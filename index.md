@@ -5,9 +5,7 @@ title: Home
 
 ## de.NBI/ELIXIR-Germany 1st BioHackathon: Spatial Transcriptomics
 
-**12-16 December 2022 | Lutherstadt Wittenberg - Leucorea | [Official Announcement](https://www.denbi.de/de-nbi-events/1454-biohackathon-germany)**
-
-**The event will by hybrid - there will be limited in person places, but will do our best to inclusive**
+**⬤ 12th-16th December 2022 ⬤ _Hybrid event_ ⬤ [Lutherstadt Wittenberg - Leucorea](https://leucorea.de/) ⬤ [Official Announcement](https://www.denbi.de/de-nbi-events/1454-biohackathon-germany) ⬤**
 
 Single cell omics has revolutionised the way and the level of resolution by which life science research is conducted, not only impacting our understanding of fundamental cell biology but also providing novel solutions in cutting-edge medical research [1,2]. More recently, several approaches have been developed to profile spatial single cell gene expression within the tissue context, providing maps of spatial locations and interactions of cell types [3]. Spatially resolved transcriptomics has been highlighted as an important technology for life science research through being awarded Nature Method of the Year 2020 [4]. Despite being in the limelight for 2 years, guidelines and workflows for best practices for the analysis of spatially resolved transcriptomics data are somewhat lacking. 
  
@@ -15,7 +13,7 @@ This project aims to combine the expertise of both biologically and technically 
  
 An important consideration for a successful hackathon would be community engagement. We plan to further enhance outreach to relevant communities including the ELIXIR single cell omics community, SCOG, the CZI SpaceTX consortia, and other key stakeholders in the field of spatial transcriptomics within Germany and internationally. We also plan to reach out to companies (e.g. Resolve Biosciences, 10x Genomics, Vizgen, Rebus, etc) to learn from their experiences and identify key areas that require attention.
  
-## Provisional program
+## Provisional focus topics
 Combing the spatial transcriptomics domain specific expertise with computational expertise of de.NBI will underpin the success of this proposal. The preliminary modules for such a workshop can include:
 1.	Identification and collation of datasets for benchmarking. Some key datasets will be collated and ready to use for the start of the hackathon, but we hope to expand this to include other relevant technologies and biological systems.
 2.	Identification of key quality control metrics. We hope to establish clear definitions of key parameters for defining the quality and comparability of experiments such as number of UMI/molecules detected, off-target rate, consistency with prior knowledge from scRNAseq, noisy signals, sensitivity, etc.
