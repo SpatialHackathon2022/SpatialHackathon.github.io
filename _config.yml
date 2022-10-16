@@ -1,10 +1,9 @@
 theme: minima
 
-title: de.NBI/ELIXIR-DE Workflow Workshop
+title: de.NBI/ELIXIR-Germany Spatial Hackathon
 show_excerpts: false
 
 header_pages:
   - index.md
   - schedule.md
-  - preparation.md
   - contact.md
