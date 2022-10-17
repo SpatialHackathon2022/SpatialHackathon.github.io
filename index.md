@@ -43,7 +43,7 @@ An important consideration for a successful hackathon would be community engagem
 
 **Organizers**: 
 1.	[Naveed Ishaque](mailto:Naveed.ishaque@bih-charite.de), Berlin Institute of Health at the Charité, Germany. Naveed leads a bioinformatics research group with a strong focus on developing and applying computation methods to better understand spatially resolved transcriptomics data.<br>
-2.	[Brian Long](mailto:brianl@alleninstitute.org), Allen Institute for Brain Science, USA. Brian is a member of the computational neuroanatomy group at the Allen Institute with extensive experience in image and data analysis. He plays a driving role in the CZI funded SpaceTX consortia.<br>
+2.	[Brian Long](mailto:brianl@alleninstitute.org), Allen Institute for Brain Science, USA. Brian is a member of the Imaging Department at the Allen Institute with extensive experience in image and data analysis. He plays a driving role in the CZI funded SpaceTX consortia.<br>
 3.	[Louis Kuemmerle](mailto:louis.kuemmerle@helmholtz-muenchen.de). Helmholtz Center Munich, Germany. PhD student in computational biology in the Theis and Erturk lab, with a strong focus on cell segmentation for spatially resolved transcriptomics data.<br>
 
 **Target audience:** PhD/postdoc-level bioinformaticians familiar with spatial omics analysis. We would strongly encourage those with working experience of data sets, analysis pipelines and single cell modelling to apply!
