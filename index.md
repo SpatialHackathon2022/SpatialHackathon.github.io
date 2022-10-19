@@ -9,7 +9,7 @@ title: Home
 ⬤ **12th-16th December 2022** ⬤ **_Hybrid event_** ⬤ **[Lutherstadt Wittenberg - Leucorea](https://leucorea.de/)** ⬤
 
 <p align="center">
-  <b><a href="https://www.denbi.de/component/chronoforms6/?chronoform=1st_BioHackathon_Germany">>> Register for free here <<</a></b>
+  <b><a href="https://www.denbi.de/component/chronoforms6/?chronoform=1st_BioHackathon_Germany">>> Register here <<</a></b>
 </p>
 
 ### Abstract
@@ -44,7 +44,7 @@ Our preliminary focus will be on <b> collation of datasets for benchmarking segm
  [8] Satija et al (2015). “Spatial reconstruction of single-cell gene expression data”. Nature Biotechnology. https://doi.org/10.1038/nbt.3192<br>
  [9] Palla et al (2021). “Squidpy: a scalable framework for spatial omics analysis”. Nature Methods. https://doi.org/10.1038/s41592-021-01358-2<br>
 
-</details>
+</details><br>
 
 ### Community engagement
 An important consideration for a successful hackathon would be community engagement. We plan to further enhance outreach to relevant communities including the ELIXIR single cell omics community, SCOG, the CZI SpaceTX consortia, and other key stakeholders in the field of spatial transcriptomics within Germany and internationally. We also plan to reach out to companies (e.g. Resolve Biosciences, 10x Genomics, Vizgen, Rebus, etc) to learn from their experiences and identify key areas that require attention. In line with Open Science principles, we would aim to share our findings with the wider scientific community – by providing good data and access to robust and easy to use tools in an accessible framework, would make life a lot easier for people new to the field. We also hope to wrap up our major findings in white papers and/or contributions to ongoing studies.
