@@ -6,8 +6,9 @@ title: Home
 ## [de.NBI/ELIXIR-Germany 1st BioHackathon: Spatial Transcriptomics](https://www.denbi.de/de-nbi-events/1454-biohackathon-germany)
 ### [Establishing best practice guidelines for imaging-based spatially resolved transcriptomics data](https://www.denbi.de/de-nbi-events/2-uncategorised/1481-establishing-workflows-for-the-analysis-of-spatial-transcriptomics-data)
 
-⬤ **12th-16th December 2022** ⬤ **_Hybrid event_** ⬤ **[Lutherstadt Wittenberg - Leucorea](https://leucorea.de/)** ⬤
-
+<p align="center">
+⬤ <b>12th-16th December 2022</b> ⬤ <b><a href="[https://www.denbi.de/component/chronoforms6/?chronoform=1st_BioHackathon_Germany](https://leucorea.de/)">Leucorea, Lutherstadt Wittenberg, Germany</a></b> ⬤ <b>Hybrid event</b> ⬤
+</p>
 <p align="center">
   <b><a href="https://www.denbi.de/component/chronoforms6/?chronoform=1st_BioHackathon_Germany">>> Register here <<</a></b>
 </p>
