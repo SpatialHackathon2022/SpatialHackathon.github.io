@@ -17,6 +17,8 @@ Single cell omics has revolutionised the way and the level of resolution by whic
 ### Project focus
 This project aims to combine the expertise of both biologically and technically focused researcheres to establish benchmarking datasets, comparing performance segmentation and cell assignment tools, and evaluating results in light of tissue specific challenges. A key foundation of the hackathon will be comparing spatial data to matched single cell data in the context of the ongoing *TXsim* project at the Helmholtz Centre Munich (Louis Kummerle, Malte Leucken and Fabian Theis). For the hackathon we will collate dataset of imaging-based spatial transcriptomics (e.g. Xenium/ISS, Vizgen/MERFISH, Resolve/MolecularCartography, seqFISH, EEL, etc) for a number of different organs (brain, lung, liver, heart) from both mouse and human to get things started. 
 
+![image](https://user-images.githubusercontent.com/114547/201365771-dae41d4d-8706-46b8-9de5-14ebd084b444.png)
+
 Our primary focus areas for this workshop are:
 
 * <b>Data</b>. Identification and collation of <b>datasets for benchmarking</b>. Some key datasets will be collated and ready to use for the start of the hackathon, but we hope to expand this to include other relevant technologies and biological systems, especially with a focus on evaluating the quality of cell segmentation.
@@ -25,7 +27,7 @@ Our primary focus areas for this workshop are:
 
 * <b>Cell segmentation</b>. Cells exhibit a diversity of morphologies, and the standard approach of segmenting cell nuclei/DAPI signal and expansion to model the cytoplasm doesnt always work, e.g. not all cells are uniformly round.
  
-* <b>(Semi-)automated cell type assignment</b>. Annotation of cell types in spatial data is still in it’s infancy, but there are some interesting paradigms emerging [e.g. [5](https://doi.org/10.1038/s41592-020-01018-x)]. 
+* <b>Normalisation and cell type annotation</b>. Annotation of cell types in spatial data is still in it’s infancy, but there are some interesting paradigms emerging [e.g. [5](https://doi.org/10.1038/s41592-020-01018-x)]. 
 
 * <b>Evaluation</b>. results in light of experimental and tissue based consideration such as single-nuc vs single-cell RNAseq, cell density, tissue complexity, rare cells, non-uniformly shaped cells etc
 
